@@ -1,3 +1,9 @@
-
+.view-my-front img {
+  height: 100%;
+  width: 100%;
+}
+.view-my-front li {
+  padding: 0;
+}
 
 /*# sourceMappingURL=custom.css.map */

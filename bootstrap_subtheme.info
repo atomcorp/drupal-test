@@ -44,7 +44,7 @@ stylesheets[all][] = css/custom.css
 ; scripts[] = 'bootstrap/js/button.js'
 ; scripts[] = 'bootstrap/js/carousel.js'
 ; scripts[] = 'bootstrap/js/collapse.js'
-; scripts[] = 'bootstrap/js/dropdown.js'
+ scripts[] = 'js/bootstrap/dropdown.js'
 ; scripts[] = 'bootstrap/js/modal.js'
 ; scripts[] = 'bootstrap/js/tooltip.js'
 ; scripts[] = 'bootstrap/js/popover.js'
@@ -54,6 +54,8 @@ stylesheets[all][] = css/custom.css
 ;
 ; ; Disable BootstrapCDN if using Bootstrap source files in your sub-theme.
  settings[bootstrap_cdn] = ''
+
+;scripts[] = 'js/custom.js'
 
 
 ; ;-------------------------
